@@ -11,7 +11,7 @@ import androidx.core.graphics.drawable.DrawableCompat
 
 class MenuActivity : AppCompatActivity() {
 
-    private lateinit var play:Button
+    private lateinit var play: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
